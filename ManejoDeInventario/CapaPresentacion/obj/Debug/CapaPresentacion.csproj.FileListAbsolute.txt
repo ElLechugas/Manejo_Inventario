@@ -1,0 +1,14 @@
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

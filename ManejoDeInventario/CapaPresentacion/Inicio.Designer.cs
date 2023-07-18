@@ -170,7 +170,7 @@
             // menu_titulo
             // 
             this.menu_titulo.AutoSize = false;
-            this.menu_titulo.BackColor = System.Drawing.Color.Chartreuse;
+            this.menu_titulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(25)))), ((int)(((byte)(62)))));
             this.menu_titulo.Location = new System.Drawing.Point(0, 0);
             this.menu_titulo.Name = "menu_titulo";
             this.menu_titulo.Size = new System.Drawing.Size(832, 44);
@@ -180,7 +180,8 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.LawnGreen;
+            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(68)))));
+            this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(47, 13);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(111, 13);
