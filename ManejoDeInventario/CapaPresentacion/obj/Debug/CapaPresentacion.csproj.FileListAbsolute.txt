@@ -12,3 +12,9 @@ D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\Capa
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.pdb

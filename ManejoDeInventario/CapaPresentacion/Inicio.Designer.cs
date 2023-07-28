@@ -193,14 +193,14 @@
             this.contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.contenedor.Location = new System.Drawing.Point(0, 117);
             this.contenedor.Name = "contenedor";
-            this.contenedor.Size = new System.Drawing.Size(832, 240);
+            this.contenedor.Size = new System.Drawing.Size(832, 317);
             this.contenedor.TabIndex = 3;
             // 
             // Inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(832, 357);
+            this.ClientSize = new System.Drawing.Size(832, 434);
             this.Controls.Add(this.contenedor);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.menu);
@@ -209,6 +209,7 @@
             this.MainMenuStrip = this.menu;
             this.Name = "Inicio";
             this.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.menu.ResumeLayout(false);
             this.menu.PerformLayout();

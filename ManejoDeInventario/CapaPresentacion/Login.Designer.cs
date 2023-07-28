@@ -31,8 +31,8 @@
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.iconPictureBox1 = new FontAwesome.Sharp.IconPictureBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtdocumento = new System.Windows.Forms.TextBox();
+            this.txtclave = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.btmingresar = new FontAwesome.Sharp.IconButton();
@@ -74,20 +74,21 @@
             this.iconPictureBox1.TabIndex = 2;
             this.iconPictureBox1.TabStop = false;
             // 
-            // textBox1
+            // txtdocumento
             // 
-            this.textBox1.Location = new System.Drawing.Point(234, 46);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(209, 20);
-            this.textBox1.TabIndex = 3;
+            this.txtdocumento.Location = new System.Drawing.Point(234, 46);
+            this.txtdocumento.Name = "txtdocumento";
+            this.txtdocumento.Size = new System.Drawing.Size(209, 20);
+            this.txtdocumento.TabIndex = 3;
             // 
-            // textBox2
+            // txtclave
             // 
-            this.textBox2.Location = new System.Drawing.Point(234, 86);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(209, 20);
-            this.textBox2.TabIndex = 4;
-            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
+            this.txtclave.Location = new System.Drawing.Point(234, 86);
+            this.txtclave.Name = "txtclave";
+            this.txtclave.PasswordChar = '*';
+            this.txtclave.Size = new System.Drawing.Size(209, 20);
+            this.txtclave.TabIndex = 4;
+            this.txtclave.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // label3
             // 
@@ -112,6 +113,7 @@
             // btmingresar
             // 
             this.btmingresar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(68)))));
+            this.btmingresar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btmingresar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btmingresar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btmingresar.ForeColor = System.Drawing.Color.White;
@@ -132,6 +134,7 @@
             // btmcancelar
             // 
             this.btmcancelar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(68)))));
+            this.btmcancelar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btmcancelar.FlatAppearance.BorderColor = System.Drawing.Color.Black;
             this.btmcancelar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btmcancelar.ForeColor = System.Drawing.Color.White;
@@ -159,8 +162,8 @@
             this.Controls.Add(this.btmingresar);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtclave);
+            this.Controls.Add(this.txtdocumento);
             this.Controls.Add(this.iconPictureBox1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
@@ -179,8 +182,8 @@
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private FontAwesome.Sharp.IconPictureBox iconPictureBox1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtdocumento;
+        private System.Windows.Forms.TextBox txtclave;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private FontAwesome.Sharp.IconButton btmingresar;
