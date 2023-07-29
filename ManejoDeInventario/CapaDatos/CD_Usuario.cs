@@ -25,11 +25,12 @@ namespace CapaDatos
                     cmd.CommandType = CommandType.Text;
                     oconexion.Open();
 
-                    using(SqlDataReader dr = cmd.ExecuteReader()) { 
+                    using(SqlDataReader dr = cmd.ExecuteReader()) {
                         while (dr.Read())
                         {
-                            lista.Add(new Usuario() {
-                                IdUsuario = Convert.ToInt32(dr["IdUsuaio"]),
+                            lista.Add(new Usuario()
+                            {
+                                IdUsuario = Convert.ToInt32(dr["IdUsuario"]),
                                 Documento = dr["Documento"].ToString(),
                                 NombreCompleto = dr["NombreCompleto"].ToString(),
                                 Correo = dr["Correo"].ToString(),
@@ -37,11 +38,13 @@ namespace CapaDatos
                                 Estado = Convert.ToBoolean(dr["Estado"])
                             });
                         }
-                    
+
+
                     }
                 }
                 catch (Exception ex)
                 {
+                    Console.WriteLine("Error en CD_Usuario.Listar(): " + ex.ToString());
                     lista = new List<Usuario>();
                 }
             }

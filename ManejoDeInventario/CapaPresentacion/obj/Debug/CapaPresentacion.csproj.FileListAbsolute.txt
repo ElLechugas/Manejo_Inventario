@@ -18,3 +18,11 @@ D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\Capa
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
