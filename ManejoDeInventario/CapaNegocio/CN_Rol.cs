@@ -9,14 +9,18 @@ using System.Threading.Tasks;
 using CapaDatos;
 using CapaEntidad;
 
+
 namespace CapaNegocio
 {
-    public class CN_Permiso
+    public  class CN_Rol
     {
-        private CD_Permiso objcd_permiso = new CD_Permiso();
-        public List<Permiso> Listar(int idUsuario)
+
+        private CD_Rol objcd_rol = new CD_Rol();
+
+
+        public List<Rol> Listar()
         {
-            return objcd_permiso.Listar(idUsuario);
+            return objcd_rol.Listar();
         }
     }
 }
