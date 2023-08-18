@@ -9,3 +9,14 @@ D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegoc
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaNegocio\obj\Debug\CapaNegocio.pdb

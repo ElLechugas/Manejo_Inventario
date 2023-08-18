@@ -26,3 +26,30 @@ D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\Capa
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
