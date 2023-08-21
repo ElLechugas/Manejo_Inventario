@@ -198,5 +198,26 @@
   <ItemGroup>
     <None Include="Resources\cabecera.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete25.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LogoCanal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\photo_2023-08-17_01-52-48.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de pantalla 2023-08-19 210626.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\check21.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
