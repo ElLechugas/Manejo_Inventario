@@ -29,6 +29,10 @@
         private void InitializeComponent()
         {
             this.menu = new System.Windows.Forms.MenuStrip();
+            this.label1 = new System.Windows.Forms.Label();
+            this.contenedor = new System.Windows.Forms.Panel();
+            this.Usuario = new System.Windows.Forms.Label();
+            this.lblusuario = new System.Windows.Forms.Label();
             this.menuusuarios = new FontAwesome.Sharp.IconMenuItem();
             this.menumantenedor = new FontAwesome.Sharp.IconMenuItem();
             this.submenucategoria = new FontAwesome.Sharp.IconMenuItem();
@@ -44,17 +48,13 @@
             this.menureportes = new FontAwesome.Sharp.IconMenuItem();
             this.menuacercade = new FontAwesome.Sharp.IconMenuItem();
             this.menu_titulo = new System.Windows.Forms.MenuStrip();
-            this.label1 = new System.Windows.Forms.Label();
-            this.contenedor = new System.Windows.Forms.Panel();
-            this.Usuario = new System.Windows.Forms.Label();
-            this.lblusuario = new System.Windows.Forms.Label();
             this.menu.SuspendLayout();
             this.SuspendLayout();
             // 
             // menu
             // 
             this.menu.AutoSize = false;
-            this.menu.BackColor = System.Drawing.Color.White;
+            this.menu.BackColor = System.Drawing.Color.Gray;
             this.menu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.menuusuarios,
             this.menumantenedor,
@@ -70,10 +70,56 @@
             this.menu.TabIndex = 0;
             this.menu.Text = "menuStrip1";
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.BackColor = System.Drawing.Color.Black;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(47, 13);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(224, 20);
+            this.label1.TabIndex = 2;
+            this.label1.Text = "MANEJO DE INVENTARIO";
+            // 
+            // contenedor
+            // 
+            this.contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.contenedor.ForeColor = System.Drawing.Color.White;
+            this.contenedor.Location = new System.Drawing.Point(0, 114);
+            this.contenedor.Name = "contenedor";
+            this.contenedor.Size = new System.Drawing.Size(1042, 442);
+            this.contenedor.TabIndex = 3;
+            // 
+            // Usuario
+            // 
+            this.Usuario.AutoSize = true;
+            this.Usuario.BackColor = System.Drawing.Color.Black;
+            this.Usuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Usuario.ForeColor = System.Drawing.Color.White;
+            this.Usuario.Location = new System.Drawing.Point(636, 11);
+            this.Usuario.Name = "Usuario";
+            this.Usuario.Size = new System.Drawing.Size(61, 15);
+            this.Usuario.TabIndex = 4;
+            this.Usuario.Text = "Usuario:";
+            this.Usuario.Click += new System.EventHandler(this.Usuario_Click_1);
+            // 
+            // lblusuario
+            // 
+            this.lblusuario.AutoSize = true;
+            this.lblusuario.BackColor = System.Drawing.Color.Black;
+            this.lblusuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblusuario.ForeColor = System.Drawing.Color.White;
+            this.lblusuario.Location = new System.Drawing.Point(693, 11);
+            this.lblusuario.Name = "lblusuario";
+            this.lblusuario.Size = new System.Drawing.Size(71, 15);
+            this.lblusuario.TabIndex = 5;
+            this.lblusuario.Text = "lblusuario";
+            // 
             // menuusuarios
             // 
             this.menuusuarios.AutoSize = false;
-            this.menuusuarios.IconChar = FontAwesome.Sharp.IconChar.Tools;
+            this.menuusuarios.IconChar = FontAwesome.Sharp.IconChar.UsersCog;
             this.menuusuarios.IconColor = System.Drawing.Color.Black;
             this.menuusuarios.IconFont = FontAwesome.Sharp.IconFont.Auto;
             this.menuusuarios.IconSize = 50;
@@ -250,57 +296,12 @@
             // menu_titulo
             // 
             this.menu_titulo.AutoSize = false;
-            this.menu_titulo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(25)))), ((int)(((byte)(62)))));
+            this.menu_titulo.BackColor = System.Drawing.Color.Black;
             this.menu_titulo.Location = new System.Drawing.Point(0, 0);
             this.menu_titulo.Name = "menu_titulo";
             this.menu_titulo.Size = new System.Drawing.Size(1042, 44);
             this.menu_titulo.TabIndex = 1;
             this.menu_titulo.Text = "menuStrip2";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(31)))), ((int)(((byte)(30)))), ((int)(((byte)(68)))));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(47, 13);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(111, 13);
-            this.label1.TabIndex = 2;
-            this.label1.Text = "SISTEMA DE VENTA";
-            // 
-            // contenedor
-            // 
-            this.contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.contenedor.ForeColor = System.Drawing.Color.White;
-            this.contenedor.Location = new System.Drawing.Point(0, 114);
-            this.contenedor.Name = "contenedor";
-            this.contenedor.Size = new System.Drawing.Size(1042, 442);
-            this.contenedor.TabIndex = 3;
-            // 
-            // Usuario
-            // 
-            this.Usuario.AutoSize = true;
-            this.Usuario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(25)))), ((int)(((byte)(62)))));
-            this.Usuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Usuario.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.Usuario.Location = new System.Drawing.Point(636, 11);
-            this.Usuario.Name = "Usuario";
-            this.Usuario.Size = new System.Drawing.Size(53, 15);
-            this.Usuario.TabIndex = 4;
-            this.Usuario.Text = "Usuario:";
-            this.Usuario.Click += new System.EventHandler(this.Usuario_Click_1);
-            // 
-            // lblusuario
-            // 
-            this.lblusuario.AutoSize = true;
-            this.lblusuario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(26)))), ((int)(((byte)(25)))), ((int)(((byte)(62)))));
-            this.lblusuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblusuario.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lblusuario.Location = new System.Drawing.Point(685, 11);
-            this.lblusuario.Name = "lblusuario";
-            this.lblusuario.Size = new System.Drawing.Size(61, 15);
-            this.lblusuario.TabIndex = 5;
-            this.lblusuario.Text = "lblusuario";
             // 
             // Inicio
             // 

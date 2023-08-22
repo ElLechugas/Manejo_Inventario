@@ -8,10 +8,11 @@ namespace CapaEntidad
 {
     public class Permiso
     {
-        public int IdPermiso { get; set; }
-        public Rol oRol { get; set; }
-        public string NombreMenu { get; set; }
-        public string FechaRegistro { get; set; }
+        public int IdPermiso { get; set; }//Jeff: Propiedad para almacenar el ID del permiso.
+        public Rol oRol { get; set; }//Jeff: Propiedad para almacenar el objeto de tipo Rol asociado al permiso.
+        public string NombreMenu { get; set; }//Jeff: Propiedad para almacenar el nombre del menú asociado al permiso.
+        public string FechaRegistro { get; set; }//Jeff: Propiedad para almacenar la fecha de registro del permiso.
+
 
     }
 }
