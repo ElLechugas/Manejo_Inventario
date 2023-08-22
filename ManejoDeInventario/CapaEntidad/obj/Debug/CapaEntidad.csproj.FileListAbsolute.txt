@@ -10,3 +10,9 @@ C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaEntidad\obj\Debug\CapaEntidad.pdb
