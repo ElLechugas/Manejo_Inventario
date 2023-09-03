@@ -16,3 +16,12 @@ C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\C
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaDatos\obj\Debug\CapaDatos.pdb

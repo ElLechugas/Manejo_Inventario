@@ -53,3 +53,30 @@ C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmProducto.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuario.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Inicio.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

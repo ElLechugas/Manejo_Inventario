@@ -165,8 +165,6 @@ namespace CapaPresentacion
             cboestado.SelectedIndex = 0;
 
             txtdocumento.Select();
-
-
         }
 
         private void textBox6_TextChanged(object sender, EventArgs e)
