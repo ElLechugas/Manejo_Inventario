@@ -1,11 +1,12 @@
-﻿using CapaEntidad;
-using System;
+﻿using System;
 using System.Collections.Generic;
-using System.Data.SqlClient;
-using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data;
+using System.Data.SqlClient;//Jeff: Importamos el espacio de nombres para trabajar con SQL Server.
+using CapaEntidad; // Jeff: Importamos el espacio de nombres de la capa de entidades.
+using System.Net.Configuration;//Axel: Yo solo copie las librerias que uso en CD_Usuario XD
 
 namespace CapaDatos
 {
@@ -60,6 +61,7 @@ namespace CapaDatos
                 {
                     SqlCommand cmd = new SqlCommand("SP_RegistrarCategoria", oconexion);
                     cmd.Parameters.AddWithValue("Descripcion", obj.Descripcion);
+                    cmd.Parameters.AddWithValue("Estado", obj.Estado);
                     cmd.Parameters.Add("Resultado", SqlDbType.Int).Direction = ParameterDirection.Output;
                     cmd.Parameters.Add("Mensaje", SqlDbType.VarChar, 500).Direction = ParameterDirection.Output;
                     cmd.CommandType = CommandType.StoredProcedure;
@@ -93,6 +95,7 @@ namespace CapaDatos
                     SqlCommand cmd = new SqlCommand("SP_EditarCategoria", oconexion);
 
                     cmd.Parameters.AddWithValue("Descripcion", obj.Descripcion);
+                    cmd.Parameters.AddWithValue("Estado", obj.Estado);
                     cmd.Parameters.AddWithValue("IdCategoria", obj.IdCategoria);
                     cmd.Parameters.Add("Resultado", SqlDbType.Int).Direction = ParameterDirection.Output;
                     cmd.Parameters.Add("Mensaje", SqlDbType.VarChar, 500).Direction = ParameterDirection.Output;
@@ -101,7 +104,7 @@ namespace CapaDatos
                     oconexion.Open();
                     cmd.ExecuteNonQuery();
 
-                    respuesta = Convert.ToBoolean(cmd.Parameters["Respuesta"].Value);
+                    respuesta = Convert.ToBoolean(cmd.Parameters["Resultado"].Value);
                     Mensaje = cmd.Parameters["Mensaje"].Value.ToString();
                 }
             }
