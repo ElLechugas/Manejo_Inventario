@@ -37,9 +37,9 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(245, 143);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(287, 25);
+            this.label1.Size = new System.Drawing.Size(331, 25);
             this.label1.TabIndex = 1;
-            this.label1.Text = "Hola, es el formulario de Ventas";
+            this.label1.Text = "Hola, es el formulario de Ventas,Axel";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // frmVentas
