@@ -91,3 +91,10 @@ C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacio
 C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.dll
 C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
 C:\Users\HP RYZEN 5\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.xml
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
