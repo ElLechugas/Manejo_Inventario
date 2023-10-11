@@ -110,7 +110,7 @@ namespace CapaPresentacion
 
         private void submenuregistrarcompra_Click(object sender, EventArgs e)
         {
-            AbrirFormulario(menucompras, new frmCompras());
+            AbrirFormulario(menucompras, new frmCompras(usuarioActual));
         }
 
         private void submenuverdetallecompra_Click(object sender, EventArgs e)
@@ -144,6 +144,11 @@ namespace CapaPresentacion
         private void menumantenedor_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void negocioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario(menumantenedor, new frmNegocio());
         }
     }
 }
