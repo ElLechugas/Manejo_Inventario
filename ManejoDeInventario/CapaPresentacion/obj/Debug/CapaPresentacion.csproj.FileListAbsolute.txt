@@ -108,3 +108,4 @@ C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
 C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
+D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
