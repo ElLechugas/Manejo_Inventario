@@ -98,3 +98,13 @@ D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itex
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
 D:\Proyecto Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\bin\Debug\itextsharp.xml
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.frmNegocio.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\Jhon\Desktop\Manejo_Inventario\ManejoDeInventario\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdCliente.resources
