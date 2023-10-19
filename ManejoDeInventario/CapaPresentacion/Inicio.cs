@@ -32,14 +32,15 @@ namespace CapaPresentacion
             
 
             InitializeComponent();
+            
         }
         private void AbrirFormulario(IconMenuItem menu,Form formulario)
         {
             if (MenuActivo != null)
             {
-                MenuActivo.BackColor = Color.White;
+                MenuActivo.BackColor = Color.FromArgb(34, 128, 65);
             }
-            menu.BackColor = Color.Silver;
+            menu.BackColor = Color.PaleGreen;
             MenuActivo = menu;
 
             if(FormularioActivo != null)
@@ -50,7 +51,7 @@ namespace CapaPresentacion
             formulario.TopLevel = false;
             formulario.FormBorderStyle = FormBorderStyle.None;
             formulario.Dock = DockStyle.Fill;
-            formulario.BackColor = Color.SteelBlue;
+            formulario.BackColor = Color.FromArgb(54, 194, 103);
 
             contenedor.Controls.Add(formulario);
             formulario.Show();
@@ -99,7 +100,7 @@ namespace CapaPresentacion
 
         private void submenuregistrarventa_Click(object sender, EventArgs e)
         {
-            AbrirFormulario(menuventas, new frmVentas());
+            AbrirFormulario(menuventas, new frmVentas(usuarioActual));
         }
 
         private void submenuverdetalleventa_Click(object sender, EventArgs e)
@@ -109,7 +110,7 @@ namespace CapaPresentacion
 
         private void submenuregistrarcompra_Click(object sender, EventArgs e)
         {
-            AbrirFormulario(menucompras, new frmCompras());
+            AbrirFormulario(menucompras, new frmCompras(usuarioActual));
         }
 
         private void submenuverdetallecompra_Click(object sender, EventArgs e)
@@ -130,6 +131,24 @@ namespace CapaPresentacion
         private void menureportes_Click(object sender, EventArgs e)
         {
             AbrirFormulario((IconMenuItem)sender, new frmReportes());
+        }
+
+        private void contenedor_Paint(object sender, PaintEventArgs e)
+        {
+            using (Image backgroundImage = Properties.Resources.Fondo_Inicio) 
+            {
+                e.Graphics.DrawImage(backgroundImage, contenedor.ClientRectangle);
+            }
+        }
+
+        private void menumantenedor_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void negocioToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario(menumantenedor, new frmNegocio());
         }
     }
 }
