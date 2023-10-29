@@ -313,5 +313,10 @@ namespace CapaPresentacion
                 row.Visible = true;
             }
         }
+
+        private void cbobusqueda_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

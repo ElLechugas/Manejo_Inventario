@@ -410,6 +410,7 @@
             this.cbobusqueda.Name = "cbobusqueda";
             this.cbobusqueda.Size = new System.Drawing.Size(100, 21);
             this.cbobusqueda.TabIndex = 30;
+            this.cbobusqueda.SelectedIndexChanged += new System.EventHandler(this.cbobusqueda_SelectedIndexChanged);
             // 
             // txtbusqueda
             // 
