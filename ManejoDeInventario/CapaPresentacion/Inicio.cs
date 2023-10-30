@@ -11,6 +11,7 @@ using System.Windows.Forms;
 
 using CapaEntidad;
 using CapaNegocio;
+using CapaPresentacion.Modales;
 using FontAwesome.Sharp;
 
 
@@ -156,6 +157,20 @@ namespace CapaPresentacion
         private void submenureporteventas_Click(object sender, EventArgs e)
         {
             AbrirFormulario(menureportes, new frmReportesVentas());
+        }
+
+        private void menuacercade_Click(object sender, EventArgs e)
+        {
+            mdAcercade md = new mdAcercade();
+            md.ShowDialog();
+        }
+
+        private void btnsalir_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("¿Desea salir?", "Mensaje", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            {
+                this.Close();
+            }
         }
     }
 }
