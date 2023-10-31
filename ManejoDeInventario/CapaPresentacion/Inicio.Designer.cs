@@ -52,10 +52,12 @@
             this.lblusuario = new System.Windows.Forms.Label();
             this.menu_titulo = new System.Windows.Forms.MenuStrip();
             this.contenedor = new System.Windows.Forms.Panel();
-            this.btnsalir = new FontAwesome.Sharp.IconButton();
             this.lblhora = new System.Windows.Forms.Label();
             this.lblfecha = new System.Windows.Forms.Label();
+            this.btnsalir = new FontAwesome.Sharp.IconButton();
             this.herafecha = new System.Windows.Forms.Timer(this.components);
+            this.subacercaAyuda = new System.Windows.Forms.ToolStripMenuItem();
+            this.subacercaContacto = new System.Windows.Forms.ToolStripMenuItem();
             this.menu.SuspendLayout();
             this.contenedor.SuspendLayout();
             this.SuspendLayout();
@@ -294,6 +296,9 @@
             // menuacercade
             // 
             this.menuacercade.AutoSize = false;
+            this.menuacercade.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.subacercaAyuda,
+            this.subacercaContacto});
             this.menuacercade.ForeColor = System.Drawing.Color.White;
             this.menuacercade.IconChar = FontAwesome.Sharp.IconChar.CircleInfo;
             this.menuacercade.IconColor = System.Drawing.Color.White;
@@ -305,7 +310,6 @@
             this.menuacercade.Size = new System.Drawing.Size(80, 69);
             this.menuacercade.Text = "Acerca de";
             this.menuacercade.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
-            this.menuacercade.Click += new System.EventHandler(this.menuacercade_Click);
             // 
             // label1
             // 
@@ -358,8 +362,8 @@
             // contenedor
             // 
             this.contenedor.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.contenedor.Controls.Add(this.lblfecha);
             this.contenedor.Controls.Add(this.lblhora);
+            this.contenedor.Controls.Add(this.lblfecha);
             this.contenedor.Dock = System.Windows.Forms.DockStyle.Fill;
             this.contenedor.ForeColor = System.Drawing.Color.White;
             this.contenedor.Location = new System.Drawing.Point(0, 129);
@@ -367,22 +371,6 @@
             this.contenedor.Size = new System.Drawing.Size(1042, 475);
             this.contenedor.TabIndex = 3;
             this.contenedor.Paint += new System.Windows.Forms.PaintEventHandler(this.contenedor_Paint);
-            // 
-            // btnsalir
-            // 
-            this.btnsalir.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(65)))));
-            this.btnsalir.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(65)))));
-            this.btnsalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnsalir.IconChar = FontAwesome.Sharp.IconChar.SignOutAlt;
-            this.btnsalir.IconColor = System.Drawing.Color.White;
-            this.btnsalir.IconFont = FontAwesome.Sharp.IconFont.Auto;
-            this.btnsalir.Location = new System.Drawing.Point(967, 8);
-            this.btnsalir.Name = "btnsalir";
-            this.btnsalir.Padding = new System.Windows.Forms.Padding(0, 0, 6, 0);
-            this.btnsalir.Size = new System.Drawing.Size(63, 48);
-            this.btnsalir.TabIndex = 6;
-            this.btnsalir.UseVisualStyleBackColor = false;
-            this.btnsalir.Click += new System.EventHandler(this.btnsalir_Click);
             // 
             // lblhora
             // 
@@ -406,10 +394,40 @@
             this.lblfecha.TabIndex = 1;
             this.lblfecha.Text = "Fecha";
             // 
+            // btnsalir
+            // 
+            this.btnsalir.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(65)))));
+            this.btnsalir.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(65)))));
+            this.btnsalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnsalir.IconChar = FontAwesome.Sharp.IconChar.SignOutAlt;
+            this.btnsalir.IconColor = System.Drawing.Color.White;
+            this.btnsalir.IconFont = FontAwesome.Sharp.IconFont.Auto;
+            this.btnsalir.Location = new System.Drawing.Point(967, 8);
+            this.btnsalir.Name = "btnsalir";
+            this.btnsalir.Padding = new System.Windows.Forms.Padding(0, 0, 6, 0);
+            this.btnsalir.Size = new System.Drawing.Size(63, 48);
+            this.btnsalir.TabIndex = 6;
+            this.btnsalir.UseVisualStyleBackColor = false;
+            this.btnsalir.Click += new System.EventHandler(this.btnsalir_Click);
+            // 
             // herafecha
             // 
             this.herafecha.Enabled = true;
             this.herafecha.Tick += new System.EventHandler(this.herafecha_Tick);
+            // 
+            // subacercaAyuda
+            // 
+            this.subacercaAyuda.Name = "subacercaAyuda";
+            this.subacercaAyuda.Size = new System.Drawing.Size(180, 22);
+            this.subacercaAyuda.Text = "AYUDA";
+            this.subacercaAyuda.Click += new System.EventHandler(this.subacercaAyuda_Click);
+            // 
+            // subacercaContacto
+            // 
+            this.subacercaContacto.Name = "subacercaContacto";
+            this.subacercaContacto.Size = new System.Drawing.Size(180, 22);
+            this.subacercaContacto.Text = "CONTACTO";
+            this.subacercaContacto.Click += new System.EventHandler(this.subacercaContacto_Click);
             // 
             // Inicio
             // 
@@ -467,6 +485,8 @@
         private System.Windows.Forms.Label lblfecha;
         private System.Windows.Forms.Label lblhora;
         private System.Windows.Forms.Timer herafecha;
+        private System.Windows.Forms.ToolStripMenuItem subacercaAyuda;
+        private System.Windows.Forms.ToolStripMenuItem subacercaContacto;
     }
 }
 

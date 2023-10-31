@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace CapaPresentacion.Modales
 {
-    public partial class mdAcercade : Form
+    public partial class frmAcercaAyuda : Form
     {
-        public mdAcercade()
+        public frmAcercaAyuda()
         {
             InitializeComponent();
         }

@@ -53,6 +53,8 @@ namespace CapaPresentacion
             formulario.FormBorderStyle = FormBorderStyle.None;
             formulario.Dock = DockStyle.Fill;
             formulario.BackColor = Color.FromArgb(54, 194, 103);
+            lblhora.Visible = false;
+            lblfecha.Visible = false;
 
             contenedor.Controls.Add(formulario);
             formulario.Show();
@@ -159,11 +161,6 @@ namespace CapaPresentacion
             AbrirFormulario(menureportes, new frmReportesVentas());
         }
 
-        private void menuacercade_Click(object sender, EventArgs e)
-        {
-            mdAcercade md = new mdAcercade();
-            md.ShowDialog();
-        }
 
         private void btnsalir_Click(object sender, EventArgs e)
         {
@@ -177,6 +174,18 @@ namespace CapaPresentacion
         {
             lblhora.Text = DateTime.Now.ToString("HH:mm:ss");
             lblfecha.Text = DateTime.Now.ToString("dddd MMMM yyy");
+        }
+
+        private void subacercaAyuda_Click(object sender, EventArgs e)
+        {
+            frmAcercaAyuda md = new frmAcercaAyuda();
+            md.ShowDialog();
+        }
+
+        private void subacercaContacto_Click(object sender, EventArgs e)
+        {
+            frmacercaContacto md = new frmacercaContacto();
+            md.ShowDialog();
         }
     }
 }
