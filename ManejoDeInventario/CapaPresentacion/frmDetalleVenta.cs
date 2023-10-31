@@ -145,6 +145,59 @@ namespace CapaPresentacion
             }
         }
 
+      
 
+        private void txtbusqueda_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox1_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void groupBox2_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtfecha_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dvgdata_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtmontopago_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+       
+        private void txtmontototal_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtmontocambio_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        
     }
 }
